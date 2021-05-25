@@ -1,4 +1,4 @@
-# Machine Learning and AI applications
+# Machine Learning and Deep Learning applications
 This repository is a compilation of different applications of Machine Learning and Deep Learning algorithms. Due to my bachelor's degree was in Engineering. I studied several numeric related courses such as linear algebra, statistics, calculus, and data mining. However, I did not have enough experience using Pandas libraries like Pandas, Scikit-learn, TensorFlow, Mlxtend, Keras, OpenCV, and NLTK. I decided to take an online course (Lets Upgrade) and work on some projects using their datasets. The following algorithms are used in this repository: 
 
 
