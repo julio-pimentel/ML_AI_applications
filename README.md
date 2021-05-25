@@ -3,26 +3,26 @@ This repository is a compilation of different applications of Machine Learning a
 
 
 + Supervised Learning Algorithms
-+   Support-vector machines (SVM)
-+   Linear regression
-+   Logistic regression
-+   Naive Bayes
-+   Decision trees
-+   K-nearest neighbor 
+  +   Support-vector machines (SVM)
+  +   Linear regression
+  +   Logistic regression
+  +   Naive Bayes
+  +   Decision trees
+  +   K-nearest neighbor 
 
 + Unsupervised Learning Algorithms
-+   Hierarchical clustering
-+   k-Means
-+   Principal component analysis (PCA)
+  +   Hierarchical clustering
+  +   k-Means
+  +   Principal component analysis (PCA)
 
 + Natural Language Processing (NLP)
 + Ensemble Techniques
-+   Bayes optimal classifier
-+   Bootstrap aggregating (bagging) -> Random Forest
-+   Boosting
+  +   Bayes optimal classifier
+  +   Bootstrap aggregating (bagging) -> Random Forest
+  +   Boosting
 + Deep Learning Algorithm
-+   Artificial Neural Network 
-+   Convolution Neural Networks
-+   Recurrent Neural Networks
+  +   Artificial Neural Network 
+  +   Convolution Neural Networks
+  +   Recurrent Neural Networks
 + Image preprocessing
-+   OpenCV-image handling
+  +   OpenCV-image handling
